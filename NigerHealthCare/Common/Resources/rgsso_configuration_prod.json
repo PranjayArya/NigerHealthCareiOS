@@ -1,0 +1,12 @@
+{
+    "project_id": "reach",
+    "client_id": "1imlcr1hu48klf5e2kmbe34kdm",
+    "client_secret": "q8gh93v1eb222e2me7oke0ohhg7sghl5346642kmgjn5n0odkq5",
+    "pool_client_id": "2g9jhaqsckqavvgh2blr0ln86k",
+    "cognito_user_pool_id": "ap-south-1_YjqGFf2I8",
+    "sso_base_scheme": "https",
+    "sso_base_host": "platform.api.crosshealthexchange.com",
+    "sso_base_path": "rgsso-patient",
+    "sso_organization_base_host": "platform.api.crosshealthexchange.com",
+    "sso_organization_base_scheme": "https"
+}

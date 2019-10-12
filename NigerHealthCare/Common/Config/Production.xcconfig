@@ -1,0 +1,76 @@
+#include "Pods/Target Support Files/Pods-Reach/Pods-Reach.debug (production).xcconfig"
+
+//Env
+ENVIRONMENT = prod
+
+//Reach
+REACH_HOST = backend.rgreach.com
+REACH_PATH = reach_api
+REACH_PORT = 443
+REACH_OPEN_CHANNEL = oc
+REACH_SECURE_CHANNEL = sc
+REACH_PLATFORM_CODE = p2
+REACH_PLATFORM_CODE_NEW = p3
+REACH_PLATFORM_VERSION = 1
+REACH_SCHEME = https
+REACH_VERSION = v1
+REACH_API = api
+REACH_SECRET_KEY = Bh9mu7WpAc
+
+//Blossom
+BLOSSOM_HOST = pediatric.crosshealthsolutions.com
+BLOSSOM_SCHEME = https
+BLOSSOM_VERSION = v1
+BLOSSOM_APPLICATION_TYPE = parent
+BLOSSOM_API = api
+
+//Cross Exchange
+CROSS_EXCHANGE_HOST = phdm.crosshealthexchange.com
+CROSS_EXCHANGE_SCHEME = https
+CROSS_EXCHANGE_VERSION = v1
+CROSS_EXCHANGE_VERSION_V2 = v2
+
+//Cross Exchange New
+CROSS_EXCHANGE_NEW_HOST = phdm.crosshealthexchange.com
+CROSS_EXCHANGE_NEW_SCHEME = https
+CROSS_EXCHANGE_NEW_VERSION = v2
+
+//Cross
+CROSS_HOST = cross.crosshealthsolutions.com
+CROSS_SCHEME = https
+CROSS_VERSION = v1
+
+//Cross Dashboard Exchange
+CROSS_DASHBOARD_EXCHANGE_HOST = dashboard.crosshealthexchange.com
+CROSS_DASHBOARD_EXCHANGE_SCHEME = http
+//CROSS_DASHBOARD_EXCHANGE_PORT =
+
+//Cross Dashboard Exchange Medication
+CROSS_DASHBOARD_EXCHANGE_MEDICATION_HOST = dashboard.crosshealthexchange.com
+CROSS_DASHBOARD_EXCHANGE_MEDICATION_SCHEME = http
+//CROSS_DASHBOARD_EXCHANGE_MEDICATION_PORT =
+
+//Crossex Exchange
+CROSSEX_EXCHANGE_HOST = crossex-stage.crosshealthexchange.com
+CROSSEX_EXCHANGE_SCHEME = https
+CROSSEX_EXCHANGE_VERSION = crossex-v1
+
+//Mindfullness
+MINDFULNESS_HOST = rgreach.com
+MINDFULNESS_SCHEME = https
+MINDFULNESS_PROJECT = programmes_api/public
+MINDFULNESS_VERSION = v1
+
+//WebPages
+WEB_PAGES_SCHEME = https
+
+//Obino
+OBINO_HOST = backend.rgreach.com
+OBINO_SCHEME = https
+
+// Common
+APPLICATION = ios
+APPLICATION_STRING = REACH
+MIX_PANEL_TOKEN = e0dd84b53c11d0546ddf86ba358222b1
+MIX_PANEL_API_SECRET = 98be6c72cf1a3ca19b3f316709f822a2
+

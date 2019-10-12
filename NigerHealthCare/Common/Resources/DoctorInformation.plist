@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string>About</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Experience</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Education</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Work History</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Specialities</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Membership</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Awards and Recognitions</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string> Certifications</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Languages</string>
+		<key>value</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

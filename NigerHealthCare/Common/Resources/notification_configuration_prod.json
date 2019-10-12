@@ -1,0 +1,12 @@
+{
+    "project_id": "reach",
+    "client_id": "1imlcr1hu48klf5e2kmbe34kdm",
+    "client_secret": "lds852WhHN",
+    "scheme" : "https",
+    "host" : "platform.api.crosshealthexchange.com",
+    "path": "notification",
+    "api": "api",
+    "version":"v1",
+    "application":"ios",
+    "environment":"prod"
+}

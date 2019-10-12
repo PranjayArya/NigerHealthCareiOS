@@ -1,0 +1,13 @@
+{
+    "project_id": "reachstage",
+    "client_id": "69or1dt5925rcqih0bm9mn80el",
+    "client_secret": "1seri0i9qmgiksc8ktiuido68j4npqd0mjnmoj60vcgcuvqk1niq",
+    "pool_client_id": "346k0ep6j30shr8chkfmg4am9t",
+    "cognito_user_pool_id": "ap-south-1_RgSWFCarD",
+    "sso_base_scheme": "https",
+    "sso_base_host": "platform.api.crosshealthexchange.com",
+    "sso_base_path": "rgsso-patient-stage",
+    "sso_organization_base_host": "platform.api.crosshealthexchange.com",
+    "sso_organization_base_scheme": "https",
+    "terms_n_condition_url" : "https://round.glass/patients-consumers-terms-service"
+}

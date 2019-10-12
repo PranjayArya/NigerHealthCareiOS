@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>filter</key>
+			<string>SORT BY</string>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Consultation fee - Low to High</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Consultation fee - High to Low</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>filter</key>
+			<string>CONSULTATION FEE (INR)</string>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Free</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Rs. 1 - Rs.200</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Rs. 201 - Rs.500</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Rs.500 and above</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>filter</key>
+			<string>CONSULTATION HOURS</string>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Before 12:00 PM</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>12:00 PM - 04:00 PM</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>04:00 PM - 08:00 PM</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>After 08:00 PM</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>filter</key>
+			<string>GENDER</string>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Female</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>filter</key>
+			<string>Male</string>
+			<key>selected</key>
+			<false/>
+		</dict>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,6 @@
+{
+    "project_id": "reachstage",
+    "app_id": "REACH",
+    "namespace_id": "reach-stage",
+    "server_url": "https://test.rtmservice.v2.rgpcdm.com:8443"
+}

@@ -1,0 +1,40 @@
+{
+    "results" : [
+                 {
+                 "title" : "Shall we start?",
+                 "detailTitle" : "Reach can transform your life.Swipe through to see how!",
+                 "image" : "AppTour1",
+                 },
+                 {
+                 "title" : "Home",
+                 "detailTitle" : " Discover all of Reach's features, get instant updates and take immediate action on your health and wellbeing!",
+                 "image" : "AppTour2",
+                 },
+                 {
+                 "title" : "Health",
+                 "detailTitle" : "Find the top care providers, book appointments, set medication reminders, upload your health records and track your health vitals, on the go.",
+                 "image" : "AppTour3",
+                 },
+                 {
+                 "title" : "Wellbeing",
+                 "detailTitle" : "Choose your vision, build healthy habits, consult wellbeing coaches, connect with friends and learn how to improve your wellbeing.",
+                 "image" : "AppTour4",
+                 },
+                 {
+                    "title" : "Explore",
+                    "detailTitle" : "Get instant access to any health or wellbeing feature by dragging the “Explore” tab to the top & pressing on the section you're interested in.",
+                    "image" : "AppTour5",
+                 },
+                 {
+                    "title" : "Profile",
+                    "detailTitle" : "Everything related to you is housed in your Profile, including your current and on-going habits, account details and more.",
+                    "image" : "AppTour6",
+                 },
+                 {
+                        "title" : "You're ready!",
+                        "detailTitle" : "That's it! You're all ready to start improving your health and wellbeing. And you can always find this tour again by visiting your profile section.",
+                        "image" : "AppTour7",
+                 }
+                 
+                 ]
+}

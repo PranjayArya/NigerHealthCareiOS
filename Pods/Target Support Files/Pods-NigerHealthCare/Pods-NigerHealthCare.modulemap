@@ -1,0 +1,6 @@
+framework module Pods_NigerHealthCare {
+  umbrella header "Pods-NigerHealthCare-umbrella.h"
+
+  export *
+  module * { export * }
+}

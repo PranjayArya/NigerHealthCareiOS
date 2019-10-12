@@ -1,0 +1,14 @@
+{
+    "project_id": "reachdev",
+    "client_id": "5jp19q2c2g3ph98rdh7a83bpgs",
+    "client_secret": "1lnlh0t1v3g4umq52u1hq4ifqvju9ps25qbua67eqcp82ncoep5m",
+    "pool_client_id": "2htn6rh2dhegaiprfsujieo1c2",
+    "cognito_user_pool_id": "ap-south-1_L0oXth58x",
+    "sso_base_scheme": "https",
+    "sso_base_host": "platform.api.crosshealthexchange.com",
+    "sso_base_path": "rgsso-patient-dev",
+    "sso_organization_base_host": "dev.partners.crosshealthexchange.com",
+    "sso_organization_base_scheme": "https",
+    "terms_n_condition_url" : "https://round.glass/patients-consumers-terms-service",
+    "org":"reach_dev"
+}

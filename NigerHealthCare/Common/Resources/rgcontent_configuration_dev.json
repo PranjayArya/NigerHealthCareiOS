@@ -1,0 +1,10 @@
+{
+    "project_id": "reach_dev",
+    "client_id": "5jp19q2c2g3ph98rdh7a83bpgs",
+    "scheme": "https",
+    "host": "platform.api.crosshealthexchange.com",
+    "path": "content-dev",
+    "client_secret": "17cgbkvrt0mekb3okcm2ue4o2cv3154b68etddl2snn78h7untft",
+    "article_detail_base_url" : "dev.article.crosshealthexchange.com",
+    "org":"reach_dev"
+}

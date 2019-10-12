@@ -1,0 +1,25 @@
+{
+    "results" : [
+                 {
+                 "title" : "",
+                 "detailTitle" : "Instant access to the best doctors & your health records too",
+                 "image" : "Onboarding1",
+                 },
+                 {
+                 "title" : "",
+                 "detailTitle" : "From food and activity to your medicine schedule, track it all",
+                 "image" : "Onboarding2",
+                 },
+                 {
+                 "title" : "",
+                 "detailTitle" : "Build healthy habits with friends & family and grow together.",
+                 "image" : "Onboarding3",
+                 },
+                 {
+                 "title" : "",
+                 "detailTitle" : "Elevate wellbeing with personalized nutrition & fitness coaching ",
+                 "image" : "Onboarding4",
+                 }
+                 
+                 ]
+}

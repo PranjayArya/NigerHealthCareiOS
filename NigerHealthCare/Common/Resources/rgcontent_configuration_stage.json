@@ -1,0 +1,11 @@
+{
+    "project_id": "reachstage",
+    "client_id": "69or1dt5925rcqih0bm9mn80el",
+    "scheme": "https",
+    "host": "platform.api.crosshealthexchange.com",
+    "path": "content-stage",
+    "client_secret": "lds852WhHN",
+    "article_detail_base_url" : "stage.article.crosshealthexchange.com",
+    "org":"reach_stage"
+}
+
